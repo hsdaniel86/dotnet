@@ -1,0 +1,15 @@
+/home/storage/C#/CSharp/CalculatorGym/bin/Debug/net6.0/CalculatorGym
+/home/storage/C#/CSharp/CalculatorGym/bin/Debug/net6.0/CalculatorGym.deps.json
+/home/storage/C#/CSharp/CalculatorGym/bin/Debug/net6.0/CalculatorGym.runtimeconfig.json
+/home/storage/C#/CSharp/CalculatorGym/bin/Debug/net6.0/CalculatorGym.dll
+/home/storage/C#/CSharp/CalculatorGym/bin/Debug/net6.0/CalculatorGym.pdb
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.csproj.AssemblyReference.cache
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.GeneratedMSBuildEditorConfig.editorconfig
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.AssemblyInfoInputs.cache
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.AssemblyInfo.cs
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.csproj.CoreCompileInputs.cache
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.dll
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/refint/CalculatorGym.dll
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.pdb
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/CalculatorGym.genruntimeconfig.cache
+/home/storage/C#/CSharp/CalculatorGym/obj/Debug/net6.0/ref/CalculatorGym.dll

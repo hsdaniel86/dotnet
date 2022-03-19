@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUEVRarLyhMxiv6F1LvPeVK37HLnANYouyavR2U775rEMdVhOKyznFskPY+m5ns0GCdwKhpKy2HevTqfQ2FBrw==",
+  "dgSpecHash": "Iv5qGachVqKHYdy7w3jhcg2zuVFJ8rLlbaWiOeiTWUp17n6z6DW4IMt8hM9ieQjfjF4ubRK/IIMeuCnSOd/Ogw==",
   "success": true,
-  "projectFilePath": "/home/storage/fullstack/CSharp/CalculatorGym/CalculatorGym.csproj",
+  "projectFilePath": "/home/storage/C#/CSharp/CalculatorGym/CalculatorGym.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

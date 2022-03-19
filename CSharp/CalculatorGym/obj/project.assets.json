@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/storage/fullstack/CSharp/CalculatorGym/CalculatorGym.csproj",
+      "projectUniqueName": "/home/storage/C#/CSharp/CalculatorGym/CalculatorGym.csproj",
       "projectName": "CalculatorGym",
-      "projectPath": "/home/storage/fullstack/CSharp/CalculatorGym/CalculatorGym.csproj",
+      "projectPath": "/home/storage/C#/CSharp/CalculatorGym/CalculatorGym.csproj",
       "packagesPath": "/home/hsdaniel/.nuget/packages/",
-      "outputPath": "/home/storage/fullstack/CSharp/CalculatorGym/obj/",
+      "outputPath": "/home/storage/C#/CSharp/CalculatorGym/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hsdaniel/.nuget/NuGet/NuGet.Config"
